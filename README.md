@@ -1,13 +1,13 @@
 # Otimização de Cronograma de Manutenção Offshore com Machine Learning
 
-## 📌 Visão Geral
+## Visão Geral
 Este projeto aplica técnicas de **Machine Learning** para apoiar o **planejamento e replanejamento de campanhas de manutenção offshore**, com foco na **previsão de atrasos** e na **simulação de decisões operacionais**.
 
 O objetivo não é substituir o engenheiro de planejamento, mas **suportar decisões críticas** antes da execução do cronograma.
 
 ---
 
-## 🎯 Problema de Negócio
+## Problema de Negócio
 Cronogramas de manutenção offshore frequentemente sofrem atrasos devido a:
 - Clima adverso
 - Falhas logísticas (helicóptero, embarcações, materiais)
@@ -19,7 +19,7 @@ Esses fatores impactam diretamente **custo, segurança e disponibilidade da unid
 
 ---
 
-## 🧠 Abordagem
+## Abordagem
 O projeto foi estruturado em quatro etapas principais:
 
 1. **Construção de Dataset Realista**
@@ -42,7 +42,7 @@ O projeto foi estruturado em quatro etapas principais:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python  
 - Pandas / NumPy  
 - Scikit-learn  
@@ -50,7 +50,7 @@ O projeto foi estruturado em quatro etapas principais:
 
 ---
 
-## 📊 Principais Insights
+## Principais Insights
 - Clima adverso e logística são os **principais drivers de atraso**
 - Reduzir dependências no cronograma gera mais impacto do que apenas aumentar recursos
 - Recursos ajudam, mas não compensam falhas operacionais
@@ -58,14 +58,14 @@ O projeto foi estruturado em quatro etapas principais:
 
 ---
 
-## 🚀 Resultados
+## Resultados
 - Modelo capaz de indicar **probabilidade de atraso por atividade**
 - Estimativa do **impacto em dias no cronograma**
 - Simulações que apoiam decisões de replanejamento antes da execução
 
 ---
 
-## 📈 Aplicações Práticas
+## Aplicações Práticas
 - Planejamento de campanhas offshore
 - Apoio à tomada de decisão gerencial
 - Análise de risco de cronograma
@@ -73,6 +73,6 @@ O projeto foi estruturado em quatro etapas principais:
 
 ---
 
-## 👤 Autor
+## Autor
 Marcus Brito  
 Engenharia | Planejamento | Data & Machine Learning
